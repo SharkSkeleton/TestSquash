@@ -18,3 +18,4 @@ text from feature 3 omiahkyi
 text from feature 3 mishka
 
 text from feature 7 omiahkyi
+text from feature 7 omiahkyi
