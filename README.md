@@ -18,3 +18,5 @@ text from feature 3 omiahkyi
 text from feature 3 mishka
 
 text from feature 5 by omiahkyi
+
+text from feature 5 by mishka
